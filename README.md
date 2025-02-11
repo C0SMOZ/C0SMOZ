@@ -2,9 +2,9 @@ https://steamuserimages-a.akamaihd.net/ugc/313367221046638467/41ED95ACE18D194A63
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
+- 💬 Pergunte-me sobre: <strong>Estudando logica de programação</strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 
